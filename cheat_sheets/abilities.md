@@ -17,5 +17,5 @@
 
 ## FROM GOLDEN LIGHT
 
-    During deployment, if every model in this unit has this ability, then you can set up this unit in a teleportarium chamber instead of setting it up on the battlefield. If you do so, then in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from any enemy models.
+During deployment, if every model in this unit has this ability, then you can set up this unit in a teleportarium chamber instead of setting it up on the battlefield. If you do so, then in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from any enemy models.
 
